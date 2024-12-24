@@ -1,5 +1,5 @@
 # Vozvan
-Stacked acrylic handwired 12.75u 40% keyboard
+Stacked acrylic, handwired, monobody split, 12.75u, 40% keyboard
 
 <img src="https://github.com/ElKinoflop/Barghest/blob/main/images/placeholder.jpg" alt="Vozvan Keyboard Photo">
 
