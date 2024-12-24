@@ -51,7 +51,7 @@ If you have wired up the matrix and connected it to the same controller pins as 
 
 <h1>Handwired Matrix</h1>
 This is how I handwired the Matrix.
-<img src="https://github.com/ElKinoflop/Barghest/blob/main/images/placeholder.jpg" alt="Vozvan Handiwired Matrix">
+<img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/Vozvan%20Matrix%20Pins.png" alt="Vozvan Handiwired Matrix">
 
 <h1>Case Assembly</h1>
 If you find some of the standoffs tight to push through don't force them. Use a small round file if you need to slightly widen any holes. The small round file from Draper 'Soft Grip Needle File Set, 140mm (6 Piece) (83982)' is the perfect size.
