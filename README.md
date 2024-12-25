@@ -3,19 +3,30 @@ Stacked acrylic, handwired, monobody split, 12.75u, 40% keyboard
 
 <img src="https://github.com/ElKinoflop/Barghest/blob/main/images/placeholder.jpg" alt="Vozvan Keyboard Photo">
 
-Stacked acrylic keyboard case designed for handwiring with a <a href="https://mechboards.co.uk/products/pro-micro-5v?_pos=2&_sid=c64ff0323&_ss=r" target="_blank">Pro Micro footprint RP2040 controller</a>. 12.75u stabless layout monobody split. Inspired by Peej's <a href="https://github.com/peej/lumberjack-keyboard" target="_blank">Lumberjack</a>, SquashKB's <a href="https://www.instagram.com/squash_kb/?hl=en-gb">Lesovoz</a>  and Trashman's <a href="https://trashman.wiki/keyboards/v4n4g0n">V4N4G0N</a>. There are lots of options on what you could do with the central section. I just tried to arrange the wires in a neat way on the top part and added an encoder to the bottom part. Other ideas for the bottom section would be to add additional switches, push buttons, LEDs or an OLED display.
+Stacked acrylic keyboard case designed for handwiring with a <a href="https://mechboards.co.uk/products/pro-micro-5v?_pos=2&_sid=c64ff0323&_ss=r" target="_blank">Pro Micro footprint RP2040 controller</a>. 12.75u layout monobody split. Inspired by Peej's <a href="https://github.com/peej/lumberjack-keyboard" target="_blank">Lumberjack</a>, SquashKB's <a href="https://www.instagram.com/squash_kb/?hl=en-gb">Lesovoz</a>  and Trashman's <a href="https://trashman.wiki/keyboards/v4n4g0n">V4N4G0N</a>. There are lots of options on what you could do with the central section. I just tried to arrange the wires in a neat way on the top part and added an encoder to the bottom part. Other ideas for the bottom section would be to add additional switches, push buttons, LEDs or an OLED display.
 
 Feel free to do whatever you want with the files. If you have any questions just ask (Discord username elkinoflop) and if you make one then share a photo with me!
 
 <h1>Layout</h1>
-<img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/Vozvan%20Handwire%20KLE.jpg" alt="Vozvan KLE Image">
+There are two versions of the layout. A stabless version and a version which requires 2x plate mounted 2u stabs.
+<h2>Stabless</h2>
+<img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/Vozvan%20Handwire%20KLE.jpg" alt="Vozvan Stabless KLE Image">
+
+<h2>Stabbed</h2>
+<img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/Vozvan%20Stabbed%20KLE.jpg" alt="Vozvan Stabbed KLE Image">
 
 <h1>KLE Raw Data</h1>
+<h2>Stabless</h2>
 ["Esc","Q","W","E","R","T",{x:3.75},"Y","U","I","O","P",{w:1.75},"Back<br>Space"],
 [{w:1.25},"Tab","A","S","D","F","G",{x:3.75},"H","J","K","L","@\n'",{w:1.5},"Enter"],
 [{w:1.75},"Shift","Z","X","C","V","B",{x:3.75},"N","M","<\n.",">\n.",{a:7},"",{a:4},"Shift"],
 [{w:1.25},"Hyper","Super",{w:1.25},"Meta","Hyper",{a:7,w:1.75},"",{x:3.75,w:1.75},"",{a:4,w:1.25},"Super",{a:7,w:1.25},"","",{w:1.25},""]
 
+<h2>Stabbed</h2>
+["Esc","Q","W","E","R","T",{x:3.75},"Y","U","I","O","P",{w:1.75},"Back<br>Space"],
+[{w:1.25},"Tab","A","S","D","F","G",{x:3.75},"H","J","K","L","@\n'",{w:1.5},"Enter"],
+[{w:1.75},"Shift","Z","X","C","V","B",{x:3.75},"N","M","<\n.",">\n.",{a:7},"",{a:4},"Shift"],
+["Hyper","Super","Meta",{w:1.25},"Hyper",{a:7,w:2},"",{x:3.75,w:2.25},"",{a:4,w:1.25},"Super",{a:7},"","",""]
 
 <h1>Case Manufacturing</h1>
 <ul>
