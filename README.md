@@ -45,6 +45,7 @@ There are two versions of the layout. A stabless version and a version which req
   <li>M2 Standoffs with a outside diameter of 3mm. Various lengths. <a href="https://amzn.eu/d/8H1HG6Y" target="_blank">Amazon Standoffs</a></li></li>
   <li>M2 Hex socket button head bolts. Various lengths. <a href="https://www.aliexpress.com/item/32969042589.html" target="_blank">AliExpress bolts</a></li>
   <li><a href="https://www.amazon.co.uk/dp/B08151V9TS?ref=ppx_yo2ov_dt_b_fed_asin_title" target="_blank">ElectroCookie PCB Prototype Board 3.8"x3.5"</a></li>
+  <li>Adhesive gasket material</li>
   <li>Optional - WS2812B LEDs. There's enough pins on the controller to add some RGB if you want</li>
   <li>Optional - Rotary Encoder (EC11). There's enough pins on the controller to add and encoder if you want</li>
   <li>Optional - 12*12*7.3mm tactile push button(s). These fit into the breadboard if you want some extra button(s) in the middle</li>
