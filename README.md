@@ -32,14 +32,17 @@ There are two versions of the layout. A stabless version and a version which req
 <ul>
   <li>Designed to be cut from 3mm acrylic</li>
   <li>There are multiple options for the central component cover</li>
+  <li>There is also the option to replace the bottom and central component cover with angled versions. The other layers of the case remain the same.</li>
   <li>As a rough idea of cost <a href="https://mechboards.co.uk/" target="_blank">Mechboards.co.uk</a> was the best price I could find in the UK at around £80-£90 (inc VAT) for the case and plate. This will vary depending on what acrylic you choose</li>
 </ul>
 
 <img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/Vozvan%20Combined.png" alt="Vozvan Case Layers">
 
+<img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/Vozvan%20V%20Combined.png" alt="Vozvan V Case Layers">
+
 <h1>Bill of Materials</h1>
 <ul>
-  <li>One of each DXF file (except for the plate) cut from 3mm acrylic.</li>
+  <li>One of each case layer cut from 3mm acrylic.</li>
   <li>Plate DXF file cut from 1.5mm plastc/metal/carbon. I got mine cut from white POM so the central parts could be used as an LED diffuser if desired</li>
   <li><a href="https://mechboards.co.uk/products/pro-micro-5v?_pos=2&_sid=c64ff0323&_ss=r" target="_blank">Pro Micro footprint RP2040 controller</a></li>
   <li>M2 Standoffs with a outside diameter of 3mm. Various lengths. <a href="https://amzn.eu/d/8H1HG6Y" target="_blank">Amazon Standoffs</a></li></li>
