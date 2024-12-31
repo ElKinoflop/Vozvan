@@ -56,6 +56,7 @@ There are two versions of the layout. A stabless version and a version which req
   <li>Wire! Solid core 22 AWG suggested</li>
   <li>46x MX Switches</li>
   <li>46x 1N4148 Diodes (plus any extras if you have buttons/encoders in the middle)</li>
+  <li>Adhesive feet. If you are using the angle V version you may need thicker feet on the outer edges of the back feet as they are further rearwards</li>
 </ul>
 
 <h1>Firmware</h1>
