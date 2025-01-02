@@ -51,14 +51,14 @@ There are two versions of the layout. A stabless version and a version which req
   <li>M2 Hex socket button head bolts. Various lengths. <a href="https://www.aliexpress.com/item/32969042589.html" target="_blank">AliExpress bolts</a></li>
   <li><a href="https://www.amazon.co.uk/dp/B08151V9TS?ref=ppx_yo2ov_dt_b_fed_asin_title" target="_blank">ElectroCookie PCB Prototype Board 3.8"x3.5"</a></li>
   <li>Adhesive gasket material</li>
-  <li>Optional - WS2812B LEDs. There's enough pins on the controller to add some RGB if you want</li>
-  <li>Optional - Rotary Encoder (EC11). There's enough pins on the controller to add and encoder if you want</li>
-  <li>Optional - 12*12*7.3mm tactile push button(s). These fit into the breadboard if you want some extra button(s) in the middle</li>
-  <li>Optional - <a href="https://www.amazon.co.uk/dp/B08RMQP6YP?ref=ppx_yo2ov_dt_b_fed_asin_title" target="_blank">1.25mm Molex PicoBlade connectors and wire</a>. I used these to connect the matrix to the central section so they can easily be disconnected if required</li>
   <li>Wire! Solid core 22 AWG suggested</li>
   <li>46x MX Switches</li>
   <li>46x 1N4148 Diodes (plus any extras if you have buttons/encoders in the middle)</li>
   <li>Adhesive feet. If you are using the angle V version you may need thicker feet on the outer edges of the back feet as they are further rearwards</li>
+  <li>Optional - WS2812B LEDs. There's enough pins on the controller to add some RGB if you want</li>
+  <li>Optional - Rotary Encoder (EC11). There's enough pins on the controller to add and encoder if you want</li>
+  <li>Optional - 12*12*7.3mm tactile push button(s). These fit into the breadboard if you want some extra button(s) in the middle</li>
+  <li>Optional - <a href="https://www.amazon.co.uk/dp/B08RMQP6YP?ref=ppx_yo2ov_dt_b_fed_asin_title" target="_blank">1.25mm Molex PicoBlade connectors and wire</a>. I used these to connect the matrix to the central section so they can easily be disconnected if required</li>
 </ul>
 
 <h1>Firmware</h1>
