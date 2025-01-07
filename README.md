@@ -48,9 +48,9 @@ There are two versions of the layout. A stabless version and a version which req
 <h1>Bill of Materials</h1>
 <ul>
   <li>One of each case layer cut from 3mm acrylic.</li>
-  <li>Plate DXF file cut from 1.5mm plastc/metal/carbon. I got mine cut from white POM so the central parts could be used as an LED diffuser if desired</li>
+  <li>Plate DXF file cut from 1.5mm metal/carbon. Flexier/plastic plates aren't recommened as without a PCB you can bottom out the switches on the case and risk the switches popping out of the plate</li>
   <li><a href="https://mechboards.co.uk/products/pro-micro-5v?_pos=2&_sid=c64ff0323&_ss=r" target="_blank">Pro Micro footprint RP2040 controller</a></li>
-  <li>M2 Standoffs with a outside diameter of 3mm. Various lengths. <a href="https://amzn.eu/d/8H1HG6Y" target="_blank">Amazon Standoffs</a></li></li>
+  <li>M2 Standoffs with a outside diameter of 3mm. 4x 5-6mm for the feet, 10x 12-14mm for the main case, 6x 2-6mm for the proto board mounts. <a href="https://amzn.eu/d/8H1HG6Y" target="_blank">Amazon Standoffs</a></li></li>
   <li>M2 Hex socket button head bolts. Various lengths. <a href="https://www.aliexpress.com/item/32969042589.html" target="_blank">AliExpress bolts</a></li>
   <li><a href="https://www.amazon.co.uk/dp/B08151V9TS?ref=ppx_yo2ov_dt_b_fed_asin_title" target="_blank">ElectroCookie PCB Prototype Board 3.8"x3.5"</a></li>
   <li>Adhesive gasket material</li>
