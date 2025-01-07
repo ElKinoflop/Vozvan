@@ -32,6 +32,7 @@ There are two versions of the layout. A stabless version and a version which req
 <ul>
   <li>Designed to be cut from 3mm acrylic</li>
   <li>There are multiple options for the central component cover</li>
+  <li>Note that acrylic sheets can vary in thickness even if they are listed as 3mm. I have found that Perspex® typically measures at 3-3.1mm whereas Xintao (which most Chinese suppliers seem to use) typically comes in at 2.6-2.7mm. This doesn't matter too much except for your switches will be much more visible with thinner sheets.</li>
   <li>There is also the option to replace the bottom and central component cover with angled versions. The other layers of the case remain the same. This is currently untested.</li>
   <li>As a rough idea of cost <a href="https://mechboards.co.uk/" target="_blank">Mechboards.co.uk</a> was the best price I could find in the UK at around £80-£90 (inc VAT) for the case and plate. This will vary depending on what acrylic you choose</li>
 </ul>
