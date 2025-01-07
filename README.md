@@ -33,7 +33,7 @@ There are two versions of the layout. A stabless version and a version which req
   <li>Designed to be cut from 3mm acrylic</li>
   <li>There are multiple options for the central component cover</li>
   <li>Note that acrylic sheets can vary in thickness even if they are listed as 3mm. I have found that Perspex® typically measures at 3-3.1mm whereas Xintao (which most Chinese suppliers seem to use) typically comes in at 2.6-2.7mm. This doesn't matter too much except for your switches will be much more visible with thinner sheets.</li>
-  <li>There is also the option to replace the bottom and central component cover with angled versions. The other layers of the case remain the same. This is currently untested.</li>
+  <li>There is also the option to replace the bottom, feet and central component cover with angled versions. The other layers of the case remain the same. This is currently untested.</li>
   <li>As a rough idea of cost <a href="https://mechboards.co.uk/" target="_blank">Mechboards.co.uk</a> was the best price I could find in the UK at around £80-£90 (inc VAT) for the case and plate. This will vary depending on what acrylic you choose</li>
 </ul>
 
@@ -48,7 +48,7 @@ There are two versions of the layout. A stabless version and a version which req
 <h1>Bill of Materials</h1>
 <ul>
   <li>One of each case layer cut from 3mm acrylic.</li>
-  <li>Plate DXF file cut from 1.5mm metal/carbon. Flexier/plastic plates aren't recommened as without a PCB you can bottom out the switches on the case and risk the switches popping out of the plate</li>
+  <li>Either the stabless or stabbed plate DXF file cut from 1.5mm metal/carbon. Flexier/plastic plates aren't recommened as without a PCB you can bottom out the switches on the case and risk the switches popping out of the plate</li>
   <li><a href="https://mechboards.co.uk/products/pro-micro-5v?_pos=2&_sid=c64ff0323&_ss=r" target="_blank">Pro Micro footprint RP2040 controller</a></li>
   <li>M2 Standoffs with a outside diameter of 3mm. 4x 5-6mm for the feet, 10x 12-14mm for the main case, 6x 2-6mm for the proto board mounts. <a href="https://amzn.eu/d/8H1HG6Y" target="_blank">Amazon Standoffs</a></li></li>
   <li>M2 Hex socket button head bolts. Various lengths. <a href="https://www.aliexpress.com/item/32969042589.html" target="_blank">AliExpress bolts</a></li>
@@ -58,6 +58,7 @@ There are two versions of the layout. A stabless version and a version which req
   <li>46x MX Switches</li>
   <li>46x 1N4148 Diodes (plus any extras if you have buttons/encoders in the middle)</li>
   <li>Adhesive feet. If you are using the angle V version you may need thicker feet on the outer edges of the back feet as they are further rearwards</li>
+  <li>Optional - 2x 2u Plate Mount Stabilisers if you are making the stabbed layout</li>
   <li>Optional - WS2812B LEDs. There's enough pins on the controller to add some RGB if you want</li>
   <li>Optional - Rotary Encoder (EC11). There's enough pins on the controller to add and encoder if you want</li>
   <li>Optional - 12*12*7.3mm tactile push button(s). These fit into the breadboard if you want some extra button(s) in the middle</li>
