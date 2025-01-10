@@ -47,7 +47,7 @@ Straight board with mounting points for an Adafruit FeatherWing. The specific ca
   <li>With the open case layers (5,6 & 7) there is the option of positioning some of the smaller parts (layers 0 or 9) within the open section to save some acrylic but some fabricators might not like doing this.</li>
   <li>Note that acrylic sheets can vary in thickness even if they are listed as 3mm. I have found that Perspex® typically measures at 3-3.1mm whereas Xintao (which most Chinese suppliers seem to use) typically comes in at 2.6-2.7mm. This doesn't matter too much except for your switches will be much more visible with thinner sheets.</li>
   <li>As a rough idea of cost <a href="https://mechboards.co.uk/" target="_blank">Mechboards.co.uk</a> was the best price I could find in the UK at around £80-£90 (inc VAT) for the case and plate. This will vary depending on what acrylic you choose</li>
-  <li>If you find some of the standoffs tight to push through don't force them. Use a small round file if you need to slightly widen any holes. The small round file from Draper 'Soft Grip Needle File Set, 140mm (6 Piece) (83982)' is the perfect size. You shouldn't need to do this but there can be some manufacturing variance.</li>
+  <li>Don't force the standoffs through if you find some of the standoffs too tight. Use a small round file if you need to slightly widen any holes. The small round file from Draper 'Soft Grip Needle File Set, 140mm (6 Piece) (83982)' is the perfect size. You shouldn't need to do this but there can be some manufacturing variance.</li>
 </ul>
 
 <img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/Vozvan%20Combined.png" alt="Vozvan Case Layers">
