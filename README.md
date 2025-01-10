@@ -69,7 +69,7 @@ Straight board with mounting points for an Adafruit FeatherWing. The specific ca
   <li>Wire! Solid core 22 AWG suggested</li>
   <li>46x MX Switches</li>
   <li>46x 1N4148 Diodes (plus any extras if you have buttons/encoders in the middle)</li>
-  <li>Adhesive feet. If you are using the angle V version you may need thicker feet on the outer edges of the back feet as they are further rearwards</li>
+  <li>8x small adhesive feet</li>
   <li>Optional - 2x 2u Plate Mount Stabilisers if you are making the stabbed layout</li>
   <li>Optional - WS2812B LEDs. There's enough pins on the controller to add some RGB if you want. I used two of the <a href="https://www.aliexpress.com/item/1005007273486672.html" target="_blank">5x5 version of these</a>. Placing them under the prototype board gives a nice effect.</li>
   <li>Optional - Rotary Encoder (EC11). There's enough pins on the controller to add and encoder if you want</li>
