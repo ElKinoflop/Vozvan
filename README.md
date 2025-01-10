@@ -42,6 +42,7 @@ Straight board with mounting points for an Adafruit FeatherWing. The specific ca
 
 <h1>Case Manufacturing</h1>
 <ul>
+  <li><a href="https://github.com/ElKinoflop/Vozvan/tree/main/Case%20Files" target="_blank">Case files</a></li>
   <li>Designed to be cut from 3mm acrylic</li>
   <li>With the open case layers (5,6 & 7) there is the option of positioning some of the smaller parts (layers 0 or 9) within the open section to save some acrylic but some fabricators might not like doing this.</li>
   <li>Note that acrylic sheets can vary in thickness even if they are listed as 3mm. I have found that Perspex® typically measures at 3-3.1mm whereas Xintao (which most Chinese suppliers seem to use) typically comes in at 2.6-2.7mm. This doesn't matter too much except for your switches will be much more visible with thinner sheets.</li>
@@ -58,7 +59,7 @@ Straight board with mounting points for an Adafruit FeatherWing. The specific ca
 
 <h1>Bill of Materials</h1>
 <ul>
-  <li>One of each case layer cut from 3mm acrylic. You need one of each number but you don't need for example both 8SEC and 8VEC.</li>
+  <li>One of each <a href="https://github.com/ElKinoflop/Vozvan/tree/main/Case%20Files" target="_blank">case layer</a> cut from 3mm acrylic. You need one of each number but you don't need for example both 8SEC and 8VEC.</li>
   <li>Either the stabless or stabbed plate DXF file cut from 1.5mm metal/carbon. Flexier/plastic plates aren't recommened as without a PCB you can bottom out the switches on the case and risk the switches popping out of the plate</li>
   <li><a href="https://mechboards.co.uk/products/pro-micro-5v?_pos=2&_sid=c64ff0323&_ss=r" target="_blank">Pro Micro footprint RP2040 controller</a></li>
   <li>M2 Standoffs with a outside diameter of 3mm. 4x 5-6mm for the feet, 10x 12-14mm for the main case, 6x 2-6mm for the proto board mounts. <a href="https://amzn.eu/d/8H1HG6Y" target="_blank">Amazon Standoffs</a></li></li>
