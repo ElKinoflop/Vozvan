@@ -30,14 +30,14 @@ There are two versions of the layout. A stabless version and a version which req
 ["Hyper","Super","Meta",{w:1.25},"Hyper",{a:7,w:2},"",{x:3.75,w:2.25},"",{a:4,w:1.25},"Super",{a:7},"","",""]
 
 <h1>Case variants</h1>
-<li>There are different variations of the case. Layers 1-7 are common across all variants but 0 (component cover), 8 (bottom) and 9 (feet) will change depending on which you choose</li>
+<li>There are different variations of the case. Layers 1-7 are common across all variants but 0 (component cover), 8 (bottom) and 9 (feet) will change depending on which you choose. Currently only the SEC version has been tested</li>
 <h3>Standard - ElectroCookie</h3>
 Straight board with mounting points for an ElectroCookie protoboard. The specific case files for this variant will have SEC after the layer number
-<h3>Standard - FeatherWing</h3>
+<h3>Standard - FeatherWing - WIP Case files not added yet</h3>
 Straight board with mounting points for an Adafruit FeatherWing. The specific case files for this variant will have SFW after the layer number
 <h3>5 Degree V - ElectroCookie</h3>
 5 Degree V board with mounting points for an ElectroCookie protoboard. The specific case files for this variant will have VEC after the layer number
-<h3>5 Degree V - FeatherWing</h3>
+<h3>5 Degree V - FeatherWing - WIP Case files not added yet</h3>
 5 Degree V board with mounting points for an Adafruit FeatherWing. The specific case files for this variant will have VFW after the layer number
 
 <h1>Case Manufacturing</h1>
@@ -87,6 +87,6 @@ This is how I handwired the Matrix.
 <img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/Vozvan%20Matrix%20Pins.png" alt="Vozvan Handiwired Matrix">
 
 <h1>Case Assembly</h1>
-If you find some of the standoffs tight to push through don't force them. Use a small round file if you need to slightly widen any holes. The small round file from Draper 'Soft Grip Needle File Set, 140mm (6 Piece) (83982)' is the perfect size.
+If you find some of the standoffs tight to push through don't force them. Use a small round file if you need to slightly widen any holes. The small round file from Draper 'Soft Grip Needle File Set, 140mm (6 Piece) (83982)' is the perfect size. You shouldn't need to do this but there can be some manufacturing variance.
 
 <img src="https://github.com/ElKinoflop/Barghest/blob/main/images/placeholder.jpg" alt="Vozvan Keyboard Photo">
