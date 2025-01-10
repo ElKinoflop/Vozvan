@@ -8,7 +8,8 @@ Stacked acrylic keyboard case designed for handwiring with a <a href="https://me
 Feel free to do whatever you want with the files. If you have any questions just ask (Discord username elkinoflop) and if you make one then share a photo with me!
 
 <h1>Layout</h1>
-There are two versions of the layout. A stabless version and a version which requires 2x plate mounted 2u stabs.
+There are two versions of the layout. A stabless version and a version which requires 2x plate mounted 2u stabs. They both have the same amount of keys so your choice of layout doesn't change the matrix.
+
 <h2>Stabless</h2>
 <img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/Vozvan%20Handwire%20KLE.jpg" alt="Vozvan Stabless KLE Image">
 
@@ -27,6 +28,17 @@ There are two versions of the layout. A stabless version and a version which req
 [{w:1.25},"Tab","A","S","D","F","G",{x:3.75},"H","J","K","L","@\n'",{w:1.5},"Enter"],
 [{w:1.75},"Shift","Z","X","C","V","B",{x:3.75},"N","M","<\n.",">\n.",{a:7},"",{a:4},"Shift"],
 ["Hyper","Super","Meta",{w:1.25},"Hyper",{a:7,w:2},"",{x:3.75,w:2.25},"",{a:4,w:1.25},"Super",{a:7},"","",""]
+
+<h1>Case variants</h1>
+<li>There are different variations of the case. 1-7 are common across all variants but 0 (component cover), 8 (bottom) and 9 (feet) will change depending on which you choose</li>
+<h3>Standard - ElectroCookie</h3>
+Straight board with mounting points for an ElectroCookie protoboard. The specific case files for this variant will have SEC after the layer number
+<h3>Standard - FeatherWing</h3>
+Straight board with mounting points for an Adafruit FeatherWing. The specific case files for this variant will have SFW after the layer number
+<h3>5 Degree V - ElectroCookie</h3>
+5 Degree V board with mounting points for an ElectroCookie protoboard. The specific case files for this variant will have VEC after the layer number
+<h3>5 Degree V - FeatherWing</h3>
+5 Degree V board with mounting points for an Adafruit FeatherWing. The specific case files for this variant will have VFW after the layer number
 
 <h1>Case Manufacturing</h1>
 <ul>
@@ -47,12 +59,12 @@ There are two versions of the layout. A stabless version and a version which req
 
 <h1>Bill of Materials</h1>
 <ul>
-  <li>One of each case layer cut from 3mm acrylic.</li>
+  <li>One of each case layer cut from 3mm acrylic. You need one of each number but you don't need for example both 8 and 8V.</li>
   <li>Either the stabless or stabbed plate DXF file cut from 1.5mm metal/carbon. Flexier/plastic plates aren't recommened as without a PCB you can bottom out the switches on the case and risk the switches popping out of the plate</li>
   <li><a href="https://mechboards.co.uk/products/pro-micro-5v?_pos=2&_sid=c64ff0323&_ss=r" target="_blank">Pro Micro footprint RP2040 controller</a></li>
   <li>M2 Standoffs with a outside diameter of 3mm. 4x 5-6mm for the feet, 10x 12-14mm for the main case, 6x 2-6mm for the proto board mounts. <a href="https://amzn.eu/d/8H1HG6Y" target="_blank">Amazon Standoffs</a></li></li>
   <li>M2 Hex socket button head bolts. Various lengths. <a href="https://www.aliexpress.com/item/32969042589.html" target="_blank">AliExpress bolts</a></li>
-  <li><a href="https://www.amazon.co.uk/dp/B08151V9TS?ref=ppx_yo2ov_dt_b_fed_asin_title" target="_blank">ElectroCookie PCB Prototype Board 3.8"x3.5"</a></li>
+  <li><a href="https://www.amazon.co.uk/dp/B08151V9TS?ref=ppx_yo2ov_dt_b_fed_asin_title" target="_blank">ElectroCookie PCB Prototype Board 3.8"x3.5"</a> OR <a href="https://www.adafruit.com/product/2884" target="_blank">FeatherWing Proto board</a>. Make sure you orient the board correctly before soldering. The ElectroCookie boards aren't symmetrical once you've broken them into 1x2 pieces, one side will be closer to the mounting holes than the other.</li>
   <li>Adhesive gasket material. 4mm width. I used 2mm thickn gaskets but ideally slightly thinner would be better.</li>
   <li>Wire! Solid core 22 AWG suggested</li>
   <li>46x MX Switches</li>
