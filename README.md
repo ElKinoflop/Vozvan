@@ -30,7 +30,7 @@ There are two versions of the layout. A stabless version and a version which req
 ["Hyper","Super","Meta",{w:1.25},"Hyper",{a:7,w:2},"",{x:3.75,w:2.25},"",{a:4,w:1.25},"Super",{a:7},"","",""]
 
 <h1>Case variants</h1>
-<li>There are different variations of the case. 1-7 are common across all variants but 0 (component cover), 8 (bottom) and 9 (feet) will change depending on which you choose</li>
+<li>There are different variations of the case. Layers 1-7 are common across all variants but 0 (component cover), 8 (bottom) and 9 (feet) will change depending on which you choose</li>
 <h3>Standard - ElectroCookie</h3>
 Straight board with mounting points for an ElectroCookie protoboard. The specific case files for this variant will have SEC after the layer number
 <h3>Standard - FeatherWing</h3>
@@ -43,7 +43,6 @@ Straight board with mounting points for an Adafruit FeatherWing. The specific ca
 <h1>Case Manufacturing</h1>
 <ul>
   <li>Designed to be cut from 3mm acrylic</li>
-  <li>There are multiple options for the central component cover</li>
   <li>Note that acrylic sheets can vary in thickness even if they are listed as 3mm. I have found that Perspex® typically measures at 3-3.1mm whereas Xintao (which most Chinese suppliers seem to use) typically comes in at 2.6-2.7mm. This doesn't matter too much except for your switches will be much more visible with thinner sheets.</li>
   <li>There is also the option to replace the bottom, feet and central component cover with angled 'V' versions. The other layers of the case remain the same. This is currently untested.</li>
   <li>As a rough idea of cost <a href="https://mechboards.co.uk/" target="_blank">Mechboards.co.uk</a> was the best price I could find in the UK at around £80-£90 (inc VAT) for the case and plate. This will vary depending on what acrylic you choose</li>
@@ -59,7 +58,7 @@ Straight board with mounting points for an Adafruit FeatherWing. The specific ca
 
 <h1>Bill of Materials</h1>
 <ul>
-  <li>One of each case layer cut from 3mm acrylic. You need one of each number but you don't need for example both 8 and 8V.</li>
+  <li>One of each case layer cut from 3mm acrylic. You need one of each number but you don't need for example both 8SEC and 8VEC.</li>
   <li>Either the stabless or stabbed plate DXF file cut from 1.5mm metal/carbon. Flexier/plastic plates aren't recommened as without a PCB you can bottom out the switches on the case and risk the switches popping out of the plate</li>
   <li><a href="https://mechboards.co.uk/products/pro-micro-5v?_pos=2&_sid=c64ff0323&_ss=r" target="_blank">Pro Micro footprint RP2040 controller</a></li>
   <li>M2 Standoffs with a outside diameter of 3mm. 4x 5-6mm for the feet, 10x 12-14mm for the main case, 6x 2-6mm for the proto board mounts. <a href="https://amzn.eu/d/8H1HG6Y" target="_blank">Amazon Standoffs</a></li></li>
