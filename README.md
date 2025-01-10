@@ -59,7 +59,7 @@ There are two versions of the layout. A stabless version and a version which req
   <li>46x 1N4148 Diodes (plus any extras if you have buttons/encoders in the middle)</li>
   <li>Adhesive feet. If you are using the angle V version you may need thicker feet on the outer edges of the back feet as they are further rearwards</li>
   <li>Optional - 2x 2u Plate Mount Stabilisers if you are making the stabbed layout</li>
-  <li>Optional - WS2812B LEDs. There's enough pins on the controller to add some RGB if you want. I used the <a href="https://www.aliexpress.com/item/1005007273486672.html" target="_blank">5x5 version of these</a>. Placing them under the prototype board give a nice effect.</li>
+  <li>Optional - WS2812B LEDs. There's enough pins on the controller to add some RGB if you want. I used two of the <a href="https://www.aliexpress.com/item/1005007273486672.html" target="_blank">5x5 version of these</a>. Placing them under the prototype board gives a nice effect.</li>
   <li>Optional - Rotary Encoder (EC11). There's enough pins on the controller to add and encoder if you want</li>
   <li>Optional - 12*12*7.3mm tactile push button(s). These fit into the breadboard if you want some extra button(s) in the middle</li>
   <li>Optional - <a href="https://www.amazon.co.uk/dp/B08RMQP6YP?ref=ppx_yo2ov_dt_b_fed_asin_title" target="_blank">1.25mm Molex PicoBlade connectors and wire</a>. I used these to connect the matrix to the central section so they can easily be disconnected if required</li>
