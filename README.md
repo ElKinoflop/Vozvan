@@ -8,7 +8,7 @@ Stacked acrylic keyboard case designed for handwiring with a <a href="https://me
 Feel free to do whatever you want with the files. If you have any questions just ask (Discord username elkinoflop) and if you make one then share a photo with me!
 
 <h1>Layout</h1>
-There are two versions of the layout. A stabless version and a version which requires 2x plate mounted 2u stabs. They both have the same amount of keys so your choice of layout doesn't change the matrix.
+There are two different layouts. A stabless version and a version which requires 2x plate mounted 2u stabs. They both have the same amount of keys so your choice of layout doesn't change the matrix.
 
 <h2>Stabless</h2>
 <img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/Vozvan%20Handwire%20KLE.jpg" alt="Vozvan Stabless KLE Image">
