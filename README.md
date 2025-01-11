@@ -30,7 +30,7 @@ There are two different layouts. A stabless version and a version which requires
 ["Hyper","Super","Meta",{w:1.25},"Hyper",{a:7,w:2},"",{x:3.75,w:2.25},"",{a:4,w:1.25},"Super",{a:7},"","",""]
 
 <h1>Case variants</h1>
-<li>There are different variations of the case. Layers 1-7 are common across all variants but 0 (component cover), 8 (bottom) and 9 (feet) will change depending on which you choose. Currently only the SEC version has been tested</li>
+<li>There are different variations of the case. Layers 1-7 are common across all variants but 0 (component cover), 8 (bottom) and 9 (feet) will change depending on which you choose. Currently only the SEC version has been tested. If you do add an encoder or extra buttons in the centre remember to modify the central component cover so that they fit.</li>
 <h3>Standard - ElectroCookie</h3>
 Straight board with mounting points for an ElectroCookie protoboard. The specific case files for this variant will have SEC after the layer number
 <h3>Standard - FeatherWing - WIP Case files not added yet</h3>
@@ -89,3 +89,6 @@ This is how I handwired the Matrix.
 <img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/Vozvan%20Matrix%20Pins.png" alt="Vozvan Handiwired Matrix">
 
 <img src="https://github.com/ElKinoflop/Barghest/blob/main/images/placeholder.jpg" alt="Vozvan Keyboard Photo">
+
+<h1>Disclarimer</h1>
+I have made a note of what variants of the case have been tested and which haven't. However you are ordering and your own risk and there are no guarantees that you end up with a functional item. If you do notice any mistakes please contact me (Discord username elkinoflop) so I can fix them.
