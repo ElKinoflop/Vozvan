@@ -1,7 +1,9 @@
 # Vozvan - Work In Progress - Case files not added yet
 Stacked acrylic, handwired, monobody split, 12.75u, 40% keyboard
 
-<img src="https://github.com/ElKinoflop/Barghest/blob/main/images/placeholder.jpg" alt="Vozvan Keyboard Photo">
+<img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/PXL_20250111_085216097.MP~2.jpg" alt="Vozvan Keyboard Photo">
+
+<img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/PXL_20250111_082006582.MP%20(1).gif" alt="Vozvan Keyboard Photo">
 
 Stacked acrylic keyboard case designed for handwiring with a <a href="https://mechboards.co.uk/products/pro-micro-5v?_pos=2&_sid=c64ff0323&_ss=r" target="_blank">Pro Micro footprint RP2040 controller</a>. 12.75u layout monobody split. Inspired by Peej's <a href="https://github.com/peej/lumberjack-keyboard" target="_blank">Lumberjack</a>, SquashKB's <a href="https://www.instagram.com/squash_kb/?hl=en-gb">Lesovoz</a>, Trashman's <a href="https://trashman.wiki/keyboards/v4n4g0n">V4N4G0N/Minivan</a> and <a href="https://p3dstore.notion.site/P3Dstore-Open-Source-Project-List-6e85900337294e769fb7b8fa68d68f27">Jake/P3D's acrylic cases</a>. The idea was to use all off the shelf components (other than the case). There are lots of options on what you could do with the central section such as encoders, tactile push buttons, LEDs or an OLED display. Different proto board mounts and either a straight or V shape can be accomodated by changing some of the layers.
 
@@ -88,12 +90,12 @@ If you have wired up the matrix and connected it to the same controller pins as 
 
 <h1>Handwired Matrix</h1>
 This is how I handwired the Matrix.
-<img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/Vozvan%20Matrix%20Pins.png" alt="Vozvan Handiwired Matrix">
-
-<img src="https://github.com/ElKinoflop/Barghest/blob/main/images/placeholder.jpg" alt="Vozvan Keyboard Photo">
+<img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/PXL_20250111_085030856.MP~2.jpg" alt="Vozvan Handiwired Matrix">
 
 An example of how to wire the proto board for an encoder
 <img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/Vozvan%20Encoder%20Board%20Wiring.jpg" alt="Vozvan Encoder Board Wiring">
 
 <h1>Disclaimer</h1>
 I have made a note of what variants of the case have been tested and which haven't. However you are ordering and your own risk and there are no guarantees that you end up with a functional item. If you do notice any mistakes please contact me (Discord username elkinoflop) so I can fix them.
+
+<img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/PXL_20250111_085030856.MP~2.jpg" alt="Vozvan Keyboard Photo">
