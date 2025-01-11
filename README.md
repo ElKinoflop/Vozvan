@@ -96,6 +96,7 @@ An example of how to wire the proto board for an encoder
 <img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/Vozvan%20Encoder%20Board%20Wiring.jpg" alt="Vozvan Encoder Board Wiring">
 
 <h1>Disclaimer</h1>
-I have made a note of what variants of the case have been tested and which haven't. However you are ordering and your own risk and there are no guarantees that you end up with a functional item. If you do notice any mistakes please contact me (Discord username elkinoflop) so I can fix them.
+I have made a note of what variants of the case have been tested and which haven't. However you are ordering at your own risk and there are no guarantees that you end up with a functional item. If you do notice any mistakes please contact me (Discord username elkinoflop) so I can fix them.
+
 
 <img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/PXL_20250111_085030856.MP~2.jpg" alt="Vozvan Keyboard Photo">
