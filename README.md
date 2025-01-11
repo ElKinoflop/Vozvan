@@ -33,10 +33,16 @@ There are two different layouts. A stabless version and a version which requires
 <li>There are different variations of the case. Layers 1-7 are common across all variants but 0 (component cover), 8 (bottom) and 9 (feet) will change depending on which you choose. Currently only the SEC version has been tested. If you do add an encoder or extra buttons in the centre remember to modify the central component cover so that they fit.</li>
 <h3>Standard - ElectroCookie</h3>
 Straight board with mounting points for an ElectroCookie protoboard. The specific case files for this variant will have SEC after the layer number
+
+<img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/Vozvan%20Combined.png" alt="Vozvan SEC Case Layers">
+
 <h3>Standard - FeatherWing - WIP Case files not added yet</h3>
 Straight board with mounting points for an Adafruit FeatherWing. The specific case files for this variant will have SFW after the layer number
 <h3>5 Degree V - ElectroCookie</h3>
 5 Degree V board with mounting points for an ElectroCookie protoboard. The specific case files for this variant will have VEC after the layer number
+
+<img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/Vozvan%20V%20Combined.png" alt="Vozvan V Case Layers">
+
 <h3>5 Degree V - FeatherWing - WIP Case files not added yet</h3>
 5 Degree V board with mounting points for an Adafruit FeatherWing. The specific case files for this variant will have VFW after the layer number
 
@@ -49,10 +55,6 @@ Straight board with mounting points for an Adafruit FeatherWing. The specific ca
   <li>As a rough idea of cost <a href="https://mechboards.co.uk/" target="_blank">Mechboards.co.uk</a> was the best price I could find in the UK at around £80-£90 (inc VAT) for the case and plate. This will vary depending on what acrylic you choose</li>
   <li>Don't force the standoffs through if you find some of the standoffs too tight. Use a small round file if you need to slightly widen any holes. The small round file from Draper 'Soft Grip Needle File Set, 140mm (6 Piece) (83982)' is the perfect size. You shouldn't need to do this but there can be some manufacturing variance.</li>
 </ul>
-
-<img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/Vozvan%20Combined.png" alt="Vozvan Case Layers">
-
-<img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/Vozvan%20V%20Combined.png" alt="Vozvan V Case Layers">
 
 <img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/9d9e7bed-2c7b-4b43-9d6c-c64e370a0fa1.PNG" alt="Vozvan Case Render">
 
