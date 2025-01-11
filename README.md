@@ -90,7 +90,7 @@ If you have wired up the matrix and connected it to the same controller pins as 
 
 <h1>Handwired Matrix</h1>
 This is how I handwired the Matrix.
-<img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/PXL_20250111_085030856.MP~2.jpg" alt="Vozvan Handiwired Matrix">
+<img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/Vozvan%20Matrix%20Pins.png" alt="Vozvan Handiwired Matrix">
 
 An example of how to wire the proto board for an encoder
 <img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/Vozvan%20Encoder%20Board%20Wiring.jpg" alt="Vozvan Encoder Board Wiring">
