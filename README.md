@@ -1,4 +1,4 @@
-# Vozvan - Work In Progress - Case files not added yet
+# Vozvan
 Stacked acrylic, handwired, monobody split, 12.75u, 40% keyboard
 
 <img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/PXL_20250111_085216097.MP~2.jpg" alt="Vozvan Keyboard Photo">
