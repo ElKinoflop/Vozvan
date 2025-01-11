@@ -92,5 +92,8 @@ This is how I handwired the Matrix.
 
 <img src="https://github.com/ElKinoflop/Barghest/blob/main/images/placeholder.jpg" alt="Vozvan Keyboard Photo">
 
+An example of how to wire the proto board for an encoder
+<img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/Vozvan%20Encoder%20Board%20Wiring.jpg" alt="Vozvan Encoder Board Wiring">
+
 <h1>Disclarimer</h1>
 I have made a note of what variants of the case have been tested and which haven't. However you are ordering and your own risk and there are no guarantees that you end up with a functional item. If you do notice any mistakes please contact me (Discord username elkinoflop) so I can fix them.
