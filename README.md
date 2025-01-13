@@ -70,7 +70,7 @@ Straight board with mounting points for an Adafruit FeatherWing. The specific ca
   <li>M2 Standoffs with a outside diameter of 3mm. 4x 5-6mm for the feet, 10x 12-14mm for the main case, 6x 2-6mm for the proto board mounts. <a href="https://amzn.eu/d/8H1HG6Y" target="_blank">Amazon Standoffs</a></li></li>
   <li>M2 Hex socket button head bolts. Various lengths between 4-12mm. <a href="https://www.aliexpress.com/item/32969042589.html" target="_blank">AliExpress bolts</a></li>
   <li><a href="https://www.amazon.co.uk/dp/B08151V9TS?ref=ppx_yo2ov_dt_b_fed_asin_title" target="_blank">ElectroCookie PCB Prototype Board 3.8"x3.5"</a> OR <a href="https://www.adafruit.com/product/2884" target="_blank">FeatherWing Proto board</a>. Make sure you orient the board correctly before soldering. The ElectroCookie boards aren't symmetrical, the case is designed so the side with the curved corners is on the right (unlike some of the photos)</li>
-  <li>Adhesive gasket material. 4mm width. I used 2mm thickn gaskets but ideally slightly thinner would be better.</li>
+  <li>Adhesive gasket material. 4mm width. I used 2mm thickn gaskets but slightly thinner would be better.</li>
   <li>Wire! Solid core 22 AWG suggested</li>
   <li>46x MX Switches</li>
   <li>46x 1N4148 Diodes (plus any extras if you have buttons/encoders in the middle)</li>
