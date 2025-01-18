@@ -45,7 +45,7 @@ Straight board with mounting points for an Adafruit FeatherWing. The specific ca
 
 <img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/Vozvan%20V%20Combined.png" alt="Vozvan VEC Case Layers">
 
-<h3>5 Degree V - FeatherWing - WIP Case files not added yet</h3>
+<h3>5 Degree V - FeatherWing</h3>
 5 Degree V board with mounting points for an Adafruit FeatherWing. The specific case files for this variant will have VFW after the layer number
 
 <img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/Vozvan%20VFW%20Render.PNG" alt="Vozvan VFW Case Render">
