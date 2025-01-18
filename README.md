@@ -82,6 +82,8 @@ Straight board with mounting points for an Adafruit FeatherWing. The specific ca
   <li>Optional - Rotary Encoder (EC11). There's enough pins on the controller to add and encoder if you want</li>
   <li>Optional - 12*12*7.3mm tactile push button(s). These fit into the breadboard if you want some extra button(s) in the middle</li>
   <li>Optional - <a href="https://www.amazon.co.uk/dp/B08RMQP6YP?ref=ppx_yo2ov_dt_b_fed_asin_title" target="_blank">1.25mm Molex PicoBlade connectors and wire</a>. I used these to connect the matrix to the central section so they can easily be disconnected if required</li>
+<li>Optional - <a href="https://learn.adafruit.com/adafruit-neopixel-featherwing" target="_blank">Adafruit NeoPixel FeatherWing</a>. For the VFW variant.</li>
+  
 </ul>
 
 <h1>Firmware</h1>
