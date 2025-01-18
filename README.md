@@ -43,10 +43,12 @@ Straight board with mounting points for an Adafruit FeatherWing. The specific ca
 <h3>5 Degree V - ElectroCookie</h3>
 5 Degree V board with mounting points for an ElectroCookie protoboard. The specific case files for this variant will have VEC after the layer number
 
-<img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/Vozvan%20V%20Combined.png" alt="Vozvan V Case Layers">
+<img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/Vozvan%20V%20Combined.png" alt="Vozvan VEC Case Layers">
 
 <h3>5 Degree V - FeatherWing - WIP Case files not added yet</h3>
 5 Degree V board with mounting points for an Adafruit FeatherWing. The specific case files for this variant will have VFW after the layer number
+
+<img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/Vozvan%20VFW%20Render.PNG" alt="Vozvan VFW Case Render">
 
 <h1>Case Manufacturing</h1>
 <ul>
