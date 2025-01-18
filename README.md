@@ -63,8 +63,6 @@ Straight board with mounting points for an Adafruit FeatherWing. The specific ca
   <li>Don't force the standoffs through if you find some of the standoffs too tight. Use a small round file if you need to slightly widen any holes. The small round file from Draper 'Soft Grip Needle File Set, 140mm (6 Piece) (83982)' is the perfect size. You shouldn't need to do this but there can be some manufacturing variance.</li>
 </ul>
 
-<img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/9d9e7bed-2c7b-4b43-9d6c-c64e370a0fa1.PNG" alt="Vozvan Case Render">
-
 <img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/Vozvan%20Orbit%20Explode.gif" alt="Vozvan Orbit Explosion">
 
 <h1>Bill of Materials</h1>
