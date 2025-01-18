@@ -38,7 +38,7 @@ Straight board with mounting points for an ElectroCookie protoboard. The specifi
 
 <img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/Vozvan%20Combined.png" alt="Vozvan SEC Case Layers">
 
-<h3>Standard - FeatherWing - WIP Case files not added yet</h3>
+<h3>Standard - FeatherWing</h3>
 Straight board with mounting points for an Adafruit FeatherWing. The specific case files for this variant will have SFW after the layer number
 <h3>5 Degree V - ElectroCookie</h3>
 5 Degree V board with mounting points for an ElectroCookie protoboard. The specific case files for this variant will have VEC after the layer number
