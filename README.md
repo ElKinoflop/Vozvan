@@ -53,6 +53,11 @@ Straight board with mounting points for an Adafruit FeatherWing. The specific ca
 
 <img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/Vozvan%20VFW%20Render.PNG" alt="Vozvan VFW Case Render">
 
+<h3>One Piece - 5 Degree V - FeatherWing</h3>
+A more enclosed variant, 5 Degree V board with mounting points for an Adafruit FeatherWing only. Other than the plates and feet the case parts aren't compatible with the other variants. 'Vozvan 0VFW - Component Cover Button 16mm.dxf' has a cutout designed to be used with a push button (16mm diameter hole). You need one of each DXF in the <a href="https://github.com/ElKinoflop/Vozvan/tree/main/Case%20Files/One%20Piece%20VFW" target="_blank">One Piece VFW</a> folder.
+
+<img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/Vozvan%20OPVFW%20Render%20Green.png" alt="Vozvan OPVFW Case Render">
+
 <h1>Case Manufacturing</h1>
 <ul>
   <li><a href="https://github.com/ElKinoflop/Vozvan/tree/main/Case%20Files" target="_blank">Case files</a></li>
