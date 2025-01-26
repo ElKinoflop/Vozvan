@@ -32,7 +32,7 @@ There are two different layouts. A stabless version and a version which requires
 ["Hyper","Super","Meta",{w:1.25},"Hyper",{a:7,w:2},"",{x:3.75,w:2.25},"",{a:4,w:1.25},"Super",{a:7},"","",""]
 
 <h1>Case variants</h1>
-<li>There are different variations of the case. Layers 1-7 are common across all variants (except the one piece) but 0 (component cover), 8 (bottom) and 9 (feet) will change depending on which you choose. Currently only the SEC version has been tested. If you do add an encoder or extra buttons in the centre remember to modify the central component cover so that they fit.</li>
+<li>There are different variations of the case. Layers 1-7 are common across all variants (except the one piece) but 0 (component cover), 8 (bottom) and 9 (feet) will change depending on which you choose. Currently only the SEC version has been tested. If you do add an encoder or extra buttons in the centre remember to modify the central component cover so that they fit. There are some STL 3D models in the <a href="https://github.com/ElKinoflop/Vozvan/tree/main/images" target="_blank">images folder</a>, these are just to give an alternative visualisation of the case and not designed for printing.</li>
 <h3>Standard - ElectroCookie</h3>
 Straight board with mounting points for an ElectroCookie protoboard. The specific case files for this variant will have SEC after the layer number
 
