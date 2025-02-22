@@ -1,7 +1,7 @@
 # Vozvan
 Stacked acrylic, handwired, monobody split, 12.75u, 40% keyboard
 
-<img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/PXL_20250111_085216097.MP~2.jpg" alt="Vozvan Keyboard Photo">
+<img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/PXL_20250128_121607740.MP~2.jpg" alt="Vozvan Keyboard Photo">
 
 <img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/PXL_20250111_080935662.MP%20(1).gif" alt="Vozvan Keyboard Photo">
 
@@ -108,5 +108,8 @@ An example of how to wire the proto board for an encoder
 <h1>Disclaimer</h1>
 I have made a note of what variants of the case have been tested and which haven't. However you are ordering at your own risk and there are no guarantees that you end up with a functional item. If you do notice any mistakes please contact me (Discord username elkinoflop) so I can fix them.
 
+<img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/PXL_20250111_085216097.MP~2.jpg" alt="Vozvan Keyboard Photo">
+
+<img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/PXL_20250128_121755532.MP~4.jpg" alt="Vozvan Keyboard Photo">
 
 <img src="https://github.com/ElKinoflop/Vozvan/blob/main/images/PXL_20250111_085030856.MP~2.jpg" alt="Vozvan Keyboard Photo">
